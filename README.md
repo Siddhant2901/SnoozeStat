@@ -11,15 +11,17 @@ The initial step involved meticulous cleaning and integration of the dataset, se
 ## Data Visualizations 📈📊
 
 ### Correlation Matrix
-![Correlation Data Insights](Correlation_DataInsights.png)
+<div align="center">
+  <img src="Correlation_DataInsights.png" alt="Correlation Data Insights">
+</div>
 
 In summary, the dataset reveals strong positive correlations (0.88, 0.77, and 0.67) indicating robust relationships:
 
-1. Sleep Duration and Quality: As sleep duration increases, sleep quality tends to improve (0.88).
+1. **Sleep Duration and Quality:** As sleep duration increases, sleep quality tends to improve (0.88).
 
-2. Daily Steps and Physical Activity Level: More daily steps correspond to higher physical activity levels (0.77).
+2. **Daily Steps and Physical Activity Level:** More daily steps correspond to higher physical activity levels (0.77).
 
-3. Stress Level and Heart Rate: Higher stress levels moderately associate with elevated heart rates (0.67).
+3. **Stress Level and Heart Rate:** Higher stress levels moderately associate with elevated heart rates (0.67).
 
 These insights suggest potential connections between sleep, physical activity, stress, and cardiovascular health in the dataset.
 
