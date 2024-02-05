@@ -26,17 +26,23 @@ In summary, the dataset reveals strong positive correlations (0.88, 0.77, and 0.
 These insights suggest potential connections between sleep, physical activity, stress, and cardiovascular health in the dataset.
 
 ### Density Plot
-![Density Plot](Density_Plot.png)
+<div align="center">
+  <img src="Density_Plot.png" alt="Density Plot">
+</div>
 
 The density plot reveals a correlation between daily step counts and BMI categories. Individuals with daily steps ranging from 6000 to 9000 are more likely to have a "Normal" BMI, aligning with health recommendations for maintaining a healthy weight. Steps between 4000 to 6000 are associated with an "Overweight" BMI, suggesting a potential risk of being classified as overweight for individuals within this range. Daily steps below 4000 are linked to an "Obese" BMI, emphasizing the importance of regular physical activity in preventing obesity. These findings have practical implications for public health, advocating for higher daily step counts to promote weight management and reduce the risk of obesity.
 
 ### Line Plot
-![Line Plot](LinePlot.png)
+<div align="center">
+ <img src="LinePlot.png" alt="Line Plot">
+</div>
 
 The line Plot reveals a noteworthy pattern in stress level concerning age. Between the age of 35 and 45, there is a decreasing trend with stress levels declining from 8 to 4. Following his between ages 45 and 55, stress levels again increases upto 8. This suggest that individuals experience a decrease in stress during their mid-thirties to mid-forties followed by a period of increasingly stress levels in their subsequent decade.
 
 ### Scatter Plot
-![Scatter Plot with Multiple Encodings](ScatterPlot_MultipleEncodings.png)
+ <div align="center">
+ <img src="ScatterPlot_MultipleEncodings.png" alt="Scatter Plot Displaying Multiple Visual Encodings">
+</div>
 
 A noticeable trend emerges among individuals above the age of 50. These individuals tend to exhibit lower stress levels and enjoy a good amount of sleep duration. This could be indicative
 of a more relaxed lifestyle or reduced work-related stress in the later stages of life.
