@@ -11,16 +11,16 @@ The initial step involved meticulous cleaning and integration of the dataset, se
 ## Data Visualizations 📈📊
 
 ### Correlation Matrix
-![Correlation Data Insights](images/Correlation_DataInsights.png)
+![Correlation Data Insights](Correlation_DataInsights.png)
 
 ### Density Plot
-![Density Plot](images/Density_Plot.png)
+![Density Plot](Density Plot.png)
 
 ### Line Plot
-![Line Plot](images/Line_Plot.png)
+![Line Plot](LinePlot.png)
 
 ### Scatter Plot
-![Scatter Plot with Multiple Encodings](images/Scatter_Plot_Multiple_Encodings.png)
+![Scatter Plot with Multiple Encodings](ScatterPlot_MultipleEncodings.png)
 
 ## Key Conclusions 🧠🔍
 
