@@ -48,10 +48,11 @@ A noticeable trend emerges among individuals above the age of 50. These individu
 of a more relaxed lifestyle or reduced work-related stress in the later stages of life.
 In the age range of 25 to 45, a cluster of points with heart rates between 68 and 75 stands out. Within this cluster, there is a pattern of higher stress levels and medium sleep duration. This suggests that individuals in this age range, with a specific heart rate range, tend to experience elevated stress levels despite achieving only moderate sleep durations
 
-## Visualizations Using Flourish
+## Visualizations Using Flourish 📊
 Utilizing Flourish for data visualizations resulted in more insightful charts, which were then integrated into a Google Sites page. The outcome was an interactive webpage available for viewing below.
 
-![Video](https://github.com/Siddhant2901/SnoozeStat/assets/75361891/660bbf09-c223-4ec0-a981-db59c825fedd)
+https://github.com/Siddhant2901/SnoozeStat/assets/75361891/2fe3421d-f7c9-45b3-b903-cc330f545f2e
+
 
 
 
