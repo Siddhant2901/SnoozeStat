@@ -51,7 +51,7 @@ In the age range of 25 to 45, a cluster of points with heart rates between 68 an
 ## Visualizations Using Flourish
 Utilizing Flourish for data visualizations resulted in more insightful charts, which were then integrated into a Google Sites page. The outcome was an interactive webpage available for viewing below.
 
-https://github.com/Siddhant2901/SnoozeStat/assets/75361891/660bbf09-c223-4ec0-a981-db59c825fedd
+![Video](https://github.com/Siddhant2901/SnoozeStat/assets/75361891/660bbf09-c223-4ec0-a981-db59c825fedd)
 
 
 
